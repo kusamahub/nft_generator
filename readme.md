@@ -3,6 +3,20 @@
 This script generate random NFTs with NTFs parts input.
 All input images must be in `.png`.
 
+## Requirements
+
+* Python 3.9.6 and above.
+* Pillow - library to work with images
+* Colorama - library to color messages
+
+```
+pip3 install pillow
+```
+
+```
+pip3 install colorama
+```
+
 ## How to use
 
 **Video:** https://youtu.be/YwcdRsfScyQ
